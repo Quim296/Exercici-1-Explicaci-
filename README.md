@@ -6,7 +6,7 @@ Per començar, he creat un compte a GitHub. lo que he fet és: e introduït el m
 
 Creació del repositori
 
-Un cop dins, he creat un repositori nou. He triat un nom pel projecte i l’he configurat com a privat. També he afegit un fitxer README per descriure el contingut del repositori, que és lo que estas llegint ara.
+Un cop dins, he creat un repositori nou. He triat un nom pel projecte i l’he configurat com a públic. També he afegit un fitxer README per descriure el contingut del repositori, que és lo que estas llegint ara.
 
 Ús de GitHub Desktop
 
